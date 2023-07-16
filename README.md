@@ -17,7 +17,7 @@
 - Go (Just the basics)
 - Rust (Still Learning it)
 
-### Languages that I want to learn
+### Languages I want to learn
 - Zig
 - Ruby
 - C
