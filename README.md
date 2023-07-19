@@ -13,12 +13,11 @@
 ### Languages I know
 - Python
 - Qml
-- C++ (Just the basics)
-- Go (Just the basics)
+- C++
+- Go
 - Rust (Still Learning it)
 
 ### Languages I want to learn
-- Zig
 - Ruby
 - C
 - JS
