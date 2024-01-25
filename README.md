@@ -16,5 +16,10 @@
 - Qml
 
 ### Languages I want to learn
-- JavaScript
+- Rust
+- Golang
+- C++
+
+### Languages I'm Currently Learning
 - Java
+- JavaScript
