@@ -1,7 +1,7 @@
 ### Hi there 👋🏼, I'm Karthik
 ![alt What's this?](https://github.com/KS-the-visionary/KS-the-visionary/blob/main/Banner.png)
 
-### Glad you took time to look at my profile 😄
+### Glad you took time to look at my profile 🤗
 
 
 ### About me
