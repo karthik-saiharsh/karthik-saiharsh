@@ -7,19 +7,19 @@
 ### About me
 - I'm 18 and am a college student.
 - I love programming and building stuff that can directly impact the lives of people postively.
-- I enjoy solving real world problems using tech
-- I love reading thought provoking, psychological and fictional books 😁
-
+- I enjoy solving real world problems using tech.
+- I love Playing Chess.
 
 ### Languages I know
 - Python
 - Qml
+- Java
+- JavaScript
 
 ### Languages I want to learn
-- Rust
 - Golang
 - C++
 
 ### Languages I'm Currently Learning
-- Java
-- JavaScript
+- C
+- Rust
