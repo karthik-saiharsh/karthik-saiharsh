@@ -1,5 +1,4 @@
 # Hi there 👋🏼, I'm Karthik
-![alt What's this?](https://github.com/KS-the-visionary/KS-the-visionary/blob/main/Banner.png)
 ![alt About me](https://raw.githubusercontent.com/karthik-saiharsh/karthik-saiharsh/refs/heads/main/me.png)
 
 ### Welcome 🙏🏼
